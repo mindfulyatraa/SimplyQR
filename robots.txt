@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://simplyqr.ai/sitemap.xml
